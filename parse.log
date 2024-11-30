@@ -1,0 +1,332 @@
+2024-11-30 21:40:41,316 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-11-30 21:40:41,316 - INFO - Added job "Parsing data every 5 minutes" to job store "default"
+2024-11-30 21:40:41,317 - INFO - Scheduler started
+2024-11-30 21:45:41,317 - INFO - Running job "Parsing data every 5 minutes (trigger: interval[0:05:00], next run at: 2024-11-30 21:45:41 +05)" (scheduled at 2024-11-30 21:45:41.316589+05:00)
+2024-11-30 21:45:41,319 - INFO - Parsing job started...
+2024-11-30 21:45:41,319 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/
+2024-11-30 21:45:53,891 - INFO - Product дрель безударная MAKITA 6413 450Вт is already in the database.
+2024-11-30 21:45:53,893 - INFO - Product дрель ударная DAEWOO DAD850 850Вт is already in the database.
+2024-11-30 21:45:53,894 - INFO - Product дрель ударная DAEWOO DAD950 950Вт is already in the database.
+2024-11-30 21:45:53,895 - INFO - Product дрель-шуруповерт DAEWOO DAA 1220Li 12В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:45:53,896 - INFO - Product дрель-шуруповерт DAEWOO DAA 2120Li 21В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:45:53,896 - INFO - Product дрель-шуруповерт DAEWOO DAA 1210Li 12В Li-Ion 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:45:53,897 - INFO - Product отвертка аккумуляторная DAEWOO DAА 3600LI Plus 3,6В Li-Ion 1,5Ач is already in the database.
+2024-11-30 21:45:53,898 - INFO - Product гравер EINHELL TC-MG 135 E 135Вт гибкий вал набор насадок is already in the database.
+2024-11-30 21:45:53,898 - INFO - Product отвертка аккумуляторная DAEWOO DAA 4800 Plus 3Нм 4,8В NICD 0,8Ач is already in the database.
+2024-11-30 21:45:53,899 - INFO - Product дрель безударная ДИОЛД МЭС-5-01 с СЗП 550Вт is already in the database.
+2024-11-30 21:45:53,900 - INFO - Product дрель-шуруповерт ДИОЛД ДЭА-12ЛИ-08 12В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:45:53,900 - INFO - Product дрель ударная ДИФМАШ ДЭУ-020 850Вт is already in the database.
+2024-11-30 21:45:53,901 - INFO - Product дрель ударная ДИФМАШ ДЭУ-030-01 900Вт is already in the database.
+2024-11-30 21:45:53,902 - INFO - Product дрель-шуруповерт ДИФМАШ ШС-030 650Вт is already in the database.
+2024-11-30 21:45:53,902 - INFO - Product дрель-шуруповерт MAKITA TD0101F 230Вт 100Нм is already in the database.
+2024-11-30 21:45:53,903 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/40 Li-Solo без аккумулятора POWER X-CHANGE is already in the database.
+2024-11-30 21:45:53,904 - INFO - Product отвертка аккумуляторная REDVERG Basic SD3,6L Li-lon 1,3Ач 1 АКБ is already in the database.
+2024-11-30 21:45:53,905 - INFO - Product дрель ударная HANSKONNER HID21100DS 1000Вт is already in the database.
+2024-11-30 21:45:53,905 - INFO - Product дрель безударная HANSKONNER HID2175 700Вт is already in the database.
+2024-11-30 21:45:53,906 - INFO - Product дрель-шуруповерт DEKO DKCD12FU-Li 12В 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:45:53,906 - INFO - Product дрель-шуруповерт DEKO DKCD20FU-Li 20В 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:45:53,907 - INFO - Product дрель-шуруповерт ДИФМАШ ША-21-01М 20В Li-Ion 2Ач 2 АКБ is already in the database.
+2024-11-30 21:45:53,908 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/48 Li - i 18В Li-Ion 2Ач 2 АКБ POWER X-CHANGE is already in the database.
+2024-11-30 21:45:53,909 - INFO - Product дрель-шуруповерт STONEBEAT KPHD0201 280Вт is already in the database.
+2024-11-30 21:45:53,909 - INFO - Product дрель-шуруповерт INGCO CDLI12208 12В Li-ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:45:53,910 - INFO - Product дрель ударная WORX WX317.2 800Вт 1 режим is already in the database.
+2024-11-30 21:45:53,911 - INFO - Product дрель-шуруповерт ударная WORX WX352 20В 60Нм с АКБ is already in the database.
+2024-11-30 21:45:53,911 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/40LiBL 40Нм 18В 2Ач 2 АКБ Power x-change is already in the database.
+2024-11-30 21:45:53,912 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/50LiBL 50Нм 18В  2Ач 2 АКБ Power x-change is already in the database.
+2024-11-30 21:45:53,913 - INFO - Product дрель-шуруповерт ДИФМАШ ША-12-06 29Нм 12В Li-Ion 2 АКБ is already in the database.
+2024-11-30 21:45:54,933 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/?amount=30&PAGEN_2=2
+2024-11-30 21:46:05,784 - INFO - Product дрель-шуруповерт ДИОЛД ДЭА-20 ЛИ-03У Li-Ion 20В 75Нм с АКБ is already in the database.
+2024-11-30 21:46:05,785 - INFO - Product дрель-шуруповерт WORX WX102 60Нм 20В Li-Ion бесщеточная с АКБ 2x2,0Ач is already in the database.
+2024-11-30 21:46:05,786 - INFO - Product дрель-шуруповерт WORX WX108.9 45Нм 20В Li-Ion без АКБ и ЗУ is already in the database.
+2024-11-30 21:46:05,786 - INFO - Product дрель-шуруповерт ударная WORX WX370 50Нм Li-Ion 20В с АКБ is already in the database.
+2024-11-30 21:46:05,787 - INFO - Product дрель-шуруповерт WORX Switchdriver2.0 WX177 бесщёточная 50Нм 20В Li-Ion с АКБ is already in the database.
+2024-11-30 21:46:05,788 - INFO - Product отвертка аккумуляторная WORX WX242 5Нм 4В Li-Ion 1,5Ач + набор оснастки is already in the database.
+2024-11-30 21:46:05,788 - INFO - Product дрель-шуруповерт ДИФМАШ ША-16-06 32Нм 16В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:46:05,789 - INFO - Product дрель-шуруповерт STURM CD3512BL 12В 2Ач 2 АКБ is already in the database.
+2024-11-30 21:46:05,790 - INFO - Product гравер STURM GM2314F 140Вт 10000-32000об/мин is already in the database.
+2024-11-30 21:46:05,791 - INFO - Product дрель-шуруповерт REDVERG RD-S18/U 18В 45Нм Li-Ion 2Ач 2 АКБ is already in the database.
+2024-11-30 21:46:05,791 - INFO - Product дрель-шуруповерт ударная REDVERG RD-IS18/U 18В 45Нм Li-Ion 2Ач 2 АКБ is already in the database.
+2024-11-30 21:46:05,792 - INFO - Product дрель-шуруповерт P.I.T. PSR18-D40 40Нм 20В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:46:05,793 - INFO - Product гравер P.I.T. PMG150-C0 150Вт аксесс 211шт is already in the database.
+2024-11-30 21:46:05,793 - INFO - Product гравер P.I.T. PMG200-C10 15Вт 350 пред-в is already in the database.
+2024-11-30 21:46:05,794 - INFO - Product дрель-шуруповерт P.I.T. PSR18-D3 20В 30Нм Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:46:05,795 - INFO - Product дрель-шуруповерт ударная P.I.T. PSB20H-13C/1 110Нм 20В Li-Ion 4Ач 1АКБ OnePower is already in the database.
+2024-11-30 21:46:05,796 - INFO - Product дрель-шуруповерт ударная P.I.T. ударная PSB20H-13D/1 75Нм 20В Li-Ion 2Ач 1АКБ OnePower is already in the database.
+2024-11-30 21:46:05,797 - INFO - Product дрель-шуруповерт P.I.T. PBM20H-10B/1 30Нм 20В Li-Ion 2Ач 1АКБ OnePower is already in the database.
+2024-11-30 21:46:05,797 - INFO - Product дрель-шуруповерт ударная P.I.T. PSR18-D4 Promo 40Нм 20В Li-Ion 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:46:05,798 - INFO - Product дрель-шуруповерт HANSKONNER HCD18165BLI 18В 165Нм 2/4Ач 2 АКБ is already in the database.
+2024-11-30 21:46:05,799 - INFO - Product дрель-шуруповерт ударная MAKITA DTD156Z 18В Li-Ion без АКБ и ЗУ LXT is already in the database.
+2024-11-30 21:46:05,799 - INFO - Product дрель-шуруповерт ударная MAKITA DTD157Z 18В Li-Ion без АКБ и ЗУ LXT is already in the database.
+2024-11-30 21:46:05,800 - INFO - Product дрель-миксер СПЕЦ ДЭ-1000  1050Вт is already in the database.
+2024-11-30 21:46:05,801 - INFO - Product дрель-шуруповерт STURM CD3318LP 18В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:46:05,801 - INFO - Product дрель-шуруповерт СПЕЦ БДА-18-БД 18В 45НМ бесщеточный Li-Ion с АКБ is already in the database.
+2024-11-30 21:46:05,802 - INFO - Product дрель-шуруповерт DEWALT DCD708N-XJ 18В 65Нм без АКБ is already in the database.
+2024-11-30 21:46:05,803 - INFO - Product отвертка аккумуляторная WORX WX240 5Нм 4В Li-Ion 1,5Ач is already in the database.
+2024-11-30 21:46:05,803 - INFO - Product дрель-шуруповерт РЕСАНТА ДА-20-2ЛК 20В Li-lon 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:46:05,804 - INFO - Product дрель-шуруповерт РЕСАНТА ДА-20-2ЛК-Б 20В Li-lon 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:46:05,805 - INFO - Product дрель-шуруповерт ударная РЕСАНТА ДА-24-2ЛК-У 24В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:46:06,825 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/?amount=30&PAGEN_2=3
+2024-11-30 21:46:20,873 - INFO - Product дрель-шуруповерт HANSKONNER HCD1645BLC 14,4В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:46:20,875 - INFO - Product дрель-шуруповерт HANSKONNER HCD2065BLC 18В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:46:20,876 - INFO - Product дрель-шуруповерт ударная HANSKONNER HCD2065BLIC 18В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:46:20,876 - INFO - Product дрель-шуруповерт ударный HANSKONNER HCD2065PRO 18В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:46:20,877 - INFO - Product дрель-шуруповерт DEKO GCD12DU3 12В Li-Ion 2х1,5Ач + з/у + набор 13 предметов is already in the database.
+2024-11-30 21:46:20,878 - INFO - Product дрель-шуруповерт DEKO Banger 20V 20В Li-Ion 2х1,5Ач + з/у + набор 63 предмета is already in the database.
+2024-11-30 21:46:20,879 - INFO - Product дрель-шуруповерт DEKO Banger 20V 20В Li-Ion 1x1,5Ач щеточный + з/у is already in the database.
+2024-11-30 21:46:20,879 - INFO - Product дрель-шуруповерт DEKO DKCD20V 20В Li-Ion 2х3,0Ач + набор 63 предмета is already in the database.
+2024-11-30 21:46:20,880 - INFO - Product дрель-шуруповерт ударная STURM CD2080I Li-Ion 18В 80Нм 2 аккумулятора is already in the database.
+2024-11-30 21:46:20,881 - INFO - Product дрель-шуруповерт P.I.T. PBM12K-10B/2 35Нм 12В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:46:20,882 - INFO - Product дрель-шуруповерт P.I.T. PSR18-D3 PROMO 30Нм 20В Li-Ion 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:46:20,882 - INFO - Product дрель-шуруповерт REDVERG RD-S18MBL/U 42Нм 18В 2Ач 2АКБ is already in the database.
+2024-11-30 21:46:20,883 - INFO - Product дрель-шуруповерт РЕСАНТА ДА-50Л2-18А 18В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:46:20,884 - INFO - Product дрель-шуруповерт ударная INGCO CIDLI12202 20Нм 12В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:46:20,885 - INFO - Product дрель ударная MAKITA M8100 710Вт + очки is already in the database.
+2024-11-30 21:46:20,885 - INFO - Product дрель-шуруповерт MAKITA DDF453SYE 18В Li-Ion 1,5Ач 2АКБ + набор сверел + очки + перчатки is already in the database.
+2024-11-30 21:46:20,886 - INFO - Product дрель-шуруповерт MAKITA DDF453SYX5 18В Li-Ion 1,5Ач 1АКБ + набор бит is already in the database.
+2024-11-30 21:46:20,887 - INFO - Product дрель-шуруповерт MAKITA DF488DWE 18В Li-Ion 1,5Ач 2АКБ + перчатки + набор сверел is already in the database.
+2024-11-30 21:46:20,888 - INFO - Product дрель-шуруповерт MAKITA DF333DWAE 12В Li-Ion 2Ач 2АКБ + уровень + рулетка is already in the database.
+2024-11-30 21:46:20,888 - INFO - Product дрель-шуруповерт STURM CD1235BL 12В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:46:20,889 - INFO - Product дрель-шуруповерт STURM CD1235 12В Li-Ion 2Ач 1АКБ is already in the database.
+2024-11-30 21:46:20,890 - INFO - Product дрель-шуруповерт BOSCH GSR 185-LI 18В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:46:20,891 - INFO - Product дрель-шуруповерт BOSCH GSB 18В 54Нм Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:46:20,891 - INFO - Product дрель-шуруповерт BOSCH GSR 18В 54Нм Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:46:20,892 - INFO - Product дрель ударная INGCO ID8108 810Вт is already in the database.
+2024-11-30 21:46:20,893 - INFO - Product дрель ударная INGCO ID68082 650Вт is already in the database.
+2024-11-30 21:46:20,893 - INFO - Product дрель-шуруповерт STURM CD1240C 12В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:46:20,894 - INFO - Product дрель-шуруповерт INGCO CDLI200528 20В 45Нм Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:46:20,895 - INFO - Product дрель-шуруповерт GREENWORKS 3704007UA 24В 35Нм Li-Ion 2,0Ач 1АКБ is already in the database.
+2024-11-30 21:46:20,896 - INFO - Product дрель-шуруповерт GREENWORKS 3704107UA 24В 60Нм Li-Ion 2,0Ач 1АКБ is already in the database.
+2024-11-30 21:46:21,917 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/?amount=30&PAGEN_2=4
+2024-11-30 21:46:25,986 - INFO - Product дрель-шуруповерт HANSKONNER HCD2065C 18В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:46:25,988 - INFO - Product дрель-шуруповерт ударная DEKO ZKCID20V 80Нм 20В Li-Ion 3,0Ач 2АКБ бесщеточный is already in the database.
+2024-11-30 21:46:25,989 - INFO - Product дрель-шуруповерт DEKO ZKCD20V PRO 45Нм 20В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:46:25,990 - INFO - Product дрель-шуруповерт DEKO SHARKER PRO 45Нм 20В Li-Ion 2,0Ач 2АКБ бесщеточный is already in the database.
+2024-11-30 21:46:25,991 - INFO - Product дрель-шуруповерт ударная DEKO ZKCD20V PRO 135Нм 20В Li-Ion 3,0Ач 2АКБ бесщеточный is already in the database.
+2024-11-30 21:46:25,991 - INFO - Product дрель-шуруповерт DEKO ZKCD12V PRO 32Нм 12В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:46:25,992 - INFO - Product дрель-шуруповерт DEKO ZKCD12 SET6 32Нм 12В Li-Ion 3,0Ач 2АКБ is already in the database.
+2024-11-30 21:46:25,993 - INFO - Product дрель-шуруповерт ударная INGCO CIDLI20508 50Нм 20В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:46:25,994 - INFO - Product дрель-шуруповерт DEWALT DCD700D2 24Нм 12В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:46:25,995 - INFO - Product отвертка аккумуляторная EINHELL TC-SD 3,6 3Нм 3,6В Li-Ion 1,3Ач is already in the database.
+2024-11-30 21:46:25,995 - INFO - Product отвертка аккумуляторная EINHELL TE-SD 3,6 3,5Нм 3,6В Li-Ion 1,5Ач + набор оснастки is already in the database.
+2024-11-30 21:46:25,996 - INFO - Product отвертка аккумуляторная ИНТЕРСКОЛ ОА-3,6 3Нм 3,6В Li-Ion 1,5Ач + набор оснастки is already in the database.
+2024-11-30 21:46:26,016 - INFO - Job "Parsing data every 5 minutes (trigger: interval[0:05:00], next run at: 2024-11-30 21:50:41 +05)" executed successfully
+2024-11-30 21:50:41,318 - INFO - Running job "Parsing data every 5 minutes (trigger: interval[0:05:00], next run at: 2024-11-30 21:55:41 +05)" (scheduled at 2024-11-30 21:50:41.316589+05:00)
+2024-11-30 21:50:41,318 - INFO - Parsing job started...
+2024-11-30 21:50:41,318 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/
+2024-11-30 21:50:42,708 - INFO - Product дрель безударная MAKITA 6413 450Вт is already in the database.
+2024-11-30 21:50:42,709 - INFO - Product дрель ударная DAEWOO DAD850 850Вт is already in the database.
+2024-11-30 21:50:42,710 - INFO - Product дрель ударная DAEWOO DAD950 950Вт is already in the database.
+2024-11-30 21:50:42,711 - INFO - Product дрель-шуруповерт DAEWOO DAA 1220Li 12В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:50:42,712 - INFO - Product дрель-шуруповерт DAEWOO DAA 2120Li 21В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:50:42,713 - INFO - Product дрель-шуруповерт DAEWOO DAA 1210Li 12В Li-Ion 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:50:42,713 - INFO - Product отвертка аккумуляторная DAEWOO DAА 3600LI Plus 3,6В Li-Ion 1,5Ач is already in the database.
+2024-11-30 21:50:42,714 - INFO - Product гравер EINHELL TC-MG 135 E 135Вт гибкий вал набор насадок is already in the database.
+2024-11-30 21:50:42,715 - INFO - Product отвертка аккумуляторная DAEWOO DAA 4800 Plus 3Нм 4,8В NICD 0,8Ач is already in the database.
+2024-11-30 21:50:42,715 - INFO - Product дрель безударная ДИОЛД МЭС-5-01 с СЗП 550Вт is already in the database.
+2024-11-30 21:50:42,716 - INFO - Product дрель-шуруповерт ДИОЛД ДЭА-12ЛИ-08 12В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:42,717 - INFO - Product дрель ударная ДИФМАШ ДЭУ-020 850Вт is already in the database.
+2024-11-30 21:50:42,717 - INFO - Product дрель ударная ДИФМАШ ДЭУ-030-01 900Вт is already in the database.
+2024-11-30 21:50:42,718 - INFO - Product дрель-шуруповерт ДИФМАШ ШС-030 650Вт is already in the database.
+2024-11-30 21:50:42,719 - INFO - Product дрель-шуруповерт MAKITA TD0101F 230Вт 100Нм is already in the database.
+2024-11-30 21:50:42,719 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/40 Li-Solo без аккумулятора POWER X-CHANGE is already in the database.
+2024-11-30 21:50:42,720 - INFO - Product отвертка аккумуляторная REDVERG Basic SD3,6L Li-lon 1,3Ач 1 АКБ is already in the database.
+2024-11-30 21:50:42,721 - INFO - Product дрель ударная HANSKONNER HID21100DS 1000Вт is already in the database.
+2024-11-30 21:50:42,722 - INFO - Product дрель безударная HANSKONNER HID2175 700Вт is already in the database.
+2024-11-30 21:50:42,722 - INFO - Product дрель-шуруповерт DEKO DKCD12FU-Li 12В 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:50:42,723 - INFO - Product дрель-шуруповерт DEKO DKCD20FU-Li 20В 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:50:42,723 - INFO - Product дрель-шуруповерт ДИФМАШ ША-21-01М 20В Li-Ion 2Ач 2 АКБ is already in the database.
+2024-11-30 21:50:42,724 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/48 Li - i 18В Li-Ion 2Ач 2 АКБ POWER X-CHANGE is already in the database.
+2024-11-30 21:50:42,725 - INFO - Product дрель-шуруповерт STONEBEAT KPHD0201 280Вт is already in the database.
+2024-11-30 21:50:42,725 - INFO - Product дрель-шуруповерт INGCO CDLI12208 12В Li-ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:50:42,726 - INFO - Product дрель ударная WORX WX317.2 800Вт 1 режим is already in the database.
+2024-11-30 21:50:42,727 - INFO - Product дрель-шуруповерт ударная WORX WX352 20В 60Нм с АКБ is already in the database.
+2024-11-30 21:50:42,727 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/40LiBL 40Нм 18В 2Ач 2 АКБ Power x-change is already in the database.
+2024-11-30 21:50:42,728 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/50LiBL 50Нм 18В  2Ач 2 АКБ Power x-change is already in the database.
+2024-11-30 21:50:42,729 - INFO - Product дрель-шуруповерт ДИФМАШ ША-12-06 29Нм 12В Li-Ion 2 АКБ is already in the database.
+2024-11-30 21:50:43,750 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/?amount=30&PAGEN_2=2
+2024-11-30 21:50:45,302 - INFO - Product дрель-шуруповерт ДИОЛД ДЭА-20 ЛИ-03У Li-Ion 20В 75Нм с АКБ is already in the database.
+2024-11-30 21:50:45,302 - INFO - Product дрель-шуруповерт WORX WX102 60Нм 20В Li-Ion бесщеточная с АКБ 2x2,0Ач is already in the database.
+2024-11-30 21:50:45,303 - INFO - Product дрель-шуруповерт WORX WX108.9 45Нм 20В Li-Ion без АКБ и ЗУ is already in the database.
+2024-11-30 21:50:45,304 - INFO - Product дрель-шуруповерт ударная WORX WX370 50Нм Li-Ion 20В с АКБ is already in the database.
+2024-11-30 21:50:45,304 - INFO - Product дрель-шуруповерт WORX Switchdriver2.0 WX177 бесщёточная 50Нм 20В Li-Ion с АКБ is already in the database.
+2024-11-30 21:50:45,305 - INFO - Product отвертка аккумуляторная WORX WX242 5Нм 4В Li-Ion 1,5Ач + набор оснастки is already in the database.
+2024-11-30 21:50:45,306 - INFO - Product дрель-шуруповерт ДИФМАШ ША-16-06 32Нм 16В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:45,307 - INFO - Product дрель-шуруповерт STURM CD3512BL 12В 2Ач 2 АКБ is already in the database.
+2024-11-30 21:50:45,307 - INFO - Product гравер STURM GM2314F 140Вт 10000-32000об/мин is already in the database.
+2024-11-30 21:50:45,308 - INFO - Product дрель-шуруповерт REDVERG RD-S18/U 18В 45Нм Li-Ion 2Ач 2 АКБ is already in the database.
+2024-11-30 21:50:45,308 - INFO - Product дрель-шуруповерт ударная REDVERG RD-IS18/U 18В 45Нм Li-Ion 2Ач 2 АКБ is already in the database.
+2024-11-30 21:50:45,309 - INFO - Product дрель-шуруповерт P.I.T. PSR18-D40 40Нм 20В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:50:45,310 - INFO - Product гравер P.I.T. PMG150-C0 150Вт аксесс 211шт is already in the database.
+2024-11-30 21:50:45,311 - INFO - Product гравер P.I.T. PMG200-C10 15Вт 350 пред-в is already in the database.
+2024-11-30 21:50:45,311 - INFO - Product дрель-шуруповерт P.I.T. PSR18-D3 20В 30Нм Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:50:45,312 - INFO - Product дрель-шуруповерт ударная P.I.T. PSB20H-13C/1 110Нм 20В Li-Ion 4Ач 1АКБ OnePower is already in the database.
+2024-11-30 21:50:45,313 - INFO - Product дрель-шуруповерт ударная P.I.T. ударная PSB20H-13D/1 75Нм 20В Li-Ion 2Ач 1АКБ OnePower is already in the database.
+2024-11-30 21:50:45,313 - INFO - Product дрель-шуруповерт P.I.T. PBM20H-10B/1 30Нм 20В Li-Ion 2Ач 1АКБ OnePower is already in the database.
+2024-11-30 21:50:45,314 - INFO - Product дрель-шуруповерт ударная P.I.T. PSR18-D4 Promo 40Нм 20В Li-Ion 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:50:45,315 - INFO - Product дрель-шуруповерт HANSKONNER HCD18165BLI 18В 165Нм 2/4Ач 2 АКБ is already in the database.
+2024-11-30 21:50:45,316 - INFO - Product дрель-шуруповерт ударная MAKITA DTD156Z 18В Li-Ion без АКБ и ЗУ LXT is already in the database.
+2024-11-30 21:50:45,316 - INFO - Product дрель-шуруповерт ударная MAKITA DTD157Z 18В Li-Ion без АКБ и ЗУ LXT is already in the database.
+2024-11-30 21:50:45,317 - INFO - Product дрель-миксер СПЕЦ ДЭ-1000  1050Вт is already in the database.
+2024-11-30 21:50:45,318 - INFO - Product дрель-шуруповерт STURM CD3318LP 18В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:45,318 - INFO - Product дрель-шуруповерт СПЕЦ БДА-18-БД 18В 45НМ бесщеточный Li-Ion с АКБ is already in the database.
+2024-11-30 21:50:45,319 - INFO - Product дрель-шуруповерт DEWALT DCD708N-XJ 18В 65Нм без АКБ is already in the database.
+2024-11-30 21:50:45,320 - INFO - Product отвертка аккумуляторная WORX WX240 5Нм 4В Li-Ion 1,5Ач is already in the database.
+2024-11-30 21:50:45,320 - INFO - Product дрель-шуруповерт РЕСАНТА ДА-20-2ЛК 20В Li-lon 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:50:45,321 - INFO - Product дрель-шуруповерт РЕСАНТА ДА-20-2ЛК-Б 20В Li-lon 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:50:45,322 - INFO - Product дрель-шуруповерт ударная РЕСАНТА ДА-24-2ЛК-У 24В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:50:46,343 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/?amount=30&PAGEN_2=3
+2024-11-30 21:50:47,712 - INFO - Product дрель-шуруповерт HANSKONNER HCD1645BLC 14,4В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:50:47,713 - INFO - Product дрель-шуруповерт HANSKONNER HCD2065BLC 18В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:50:47,713 - INFO - Product дрель-шуруповерт ударная HANSKONNER HCD2065BLIC 18В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:50:47,714 - INFO - Product дрель-шуруповерт ударный HANSKONNER HCD2065PRO 18В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:50:47,715 - INFO - Product дрель-шуруповерт DEKO GCD12DU3 12В Li-Ion 2х1,5Ач + з/у + набор 13 предметов is already in the database.
+2024-11-30 21:50:47,715 - INFO - Product дрель-шуруповерт DEKO Banger 20V 20В Li-Ion 2х1,5Ач + з/у + набор 63 предмета is already in the database.
+2024-11-30 21:50:47,716 - INFO - Product дрель-шуруповерт DEKO Banger 20V 20В Li-Ion 1x1,5Ач щеточный + з/у is already in the database.
+2024-11-30 21:50:47,717 - INFO - Product дрель-шуруповерт DEKO DKCD20V 20В Li-Ion 2х3,0Ач + набор 63 предмета is already in the database.
+2024-11-30 21:50:47,718 - INFO - Product дрель-шуруповерт ударная STURM CD2080I Li-Ion 18В 80Нм 2 аккумулятора is already in the database.
+2024-11-30 21:50:47,718 - INFO - Product дрель-шуруповерт P.I.T. PBM12K-10B/2 35Нм 12В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:50:47,719 - INFO - Product дрель-шуруповерт P.I.T. PSR18-D3 PROMO 30Нм 20В Li-Ion 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:50:47,720 - INFO - Product дрель-шуруповерт REDVERG RD-S18MBL/U 42Нм 18В 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:47,720 - INFO - Product дрель-шуруповерт РЕСАНТА ДА-50Л2-18А 18В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:47,721 - INFO - Product дрель-шуруповерт ударная INGCO CIDLI12202 20Нм 12В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:50:47,722 - INFO - Product дрель ударная MAKITA M8100 710Вт + очки is already in the database.
+2024-11-30 21:50:47,722 - INFO - Product дрель-шуруповерт MAKITA DDF453SYE 18В Li-Ion 1,5Ач 2АКБ + набор сверел + очки + перчатки is already in the database.
+2024-11-30 21:50:47,723 - INFO - Product дрель-шуруповерт MAKITA DDF453SYX5 18В Li-Ion 1,5Ач 1АКБ + набор бит is already in the database.
+2024-11-30 21:50:47,724 - INFO - Product дрель-шуруповерт MAKITA DF488DWE 18В Li-Ion 1,5Ач 2АКБ + перчатки + набор сверел is already in the database.
+2024-11-30 21:50:47,724 - INFO - Product дрель-шуруповерт MAKITA DF333DWAE 12В Li-Ion 2Ач 2АКБ + уровень + рулетка is already in the database.
+2024-11-30 21:50:47,725 - INFO - Product дрель-шуруповерт STURM CD1235BL 12В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:47,726 - INFO - Product дрель-шуруповерт STURM CD1235 12В Li-Ion 2Ач 1АКБ is already in the database.
+2024-11-30 21:50:47,726 - INFO - Product дрель-шуруповерт BOSCH GSR 185-LI 18В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:47,727 - INFO - Product дрель-шуруповерт BOSCH GSB 18В 54Нм Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:47,728 - INFO - Product дрель-шуруповерт BOSCH GSR 18В 54Нм Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:47,729 - INFO - Product дрель ударная INGCO ID8108 810Вт is already in the database.
+2024-11-30 21:50:47,729 - INFO - Product дрель ударная INGCO ID68082 650Вт is already in the database.
+2024-11-30 21:50:47,730 - INFO - Product дрель-шуруповерт STURM CD1240C 12В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:47,731 - INFO - Product дрель-шуруповерт INGCO CDLI200528 20В 45Нм Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:50:47,731 - INFO - Product дрель-шуруповерт GREENWORKS 3704007UA 24В 35Нм Li-Ion 2,0Ач 1АКБ is already in the database.
+2024-11-30 21:50:47,732 - INFO - Product дрель-шуруповерт GREENWORKS 3704107UA 24В 60Нм Li-Ion 2,0Ач 1АКБ is already in the database.
+2024-11-30 21:50:48,753 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/?amount=30&PAGEN_2=4
+2024-11-30 21:50:49,576 - INFO - Product дрель-шуруповерт HANSKONNER HCD2065C 18В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:50:49,577 - INFO - Product дрель-шуруповерт ударная DEKO ZKCID20V 80Нм 20В Li-Ion 3,0Ач 2АКБ бесщеточный is already in the database.
+2024-11-30 21:50:49,577 - INFO - Product дрель-шуруповерт DEKO ZKCD20V PRO 45Нм 20В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:50:49,578 - INFO - Product дрель-шуруповерт DEKO SHARKER PRO 45Нм 20В Li-Ion 2,0Ач 2АКБ бесщеточный is already in the database.
+2024-11-30 21:50:49,579 - INFO - Product дрель-шуруповерт ударная DEKO ZKCD20V PRO 135Нм 20В Li-Ion 3,0Ач 2АКБ бесщеточный is already in the database.
+2024-11-30 21:50:49,580 - INFO - Product дрель-шуруповерт DEKO ZKCD12V PRO 32Нм 12В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:50:49,580 - INFO - Product дрель-шуруповерт DEKO ZKCD12 SET6 32Нм 12В Li-Ion 3,0Ач 2АКБ is already in the database.
+2024-11-30 21:50:49,581 - INFO - Product дрель-шуруповерт ударная INGCO CIDLI20508 50Нм 20В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:50:49,582 - INFO - Product дрель-шуруповерт DEWALT DCD700D2 24Нм 12В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:50:49,582 - INFO - Product отвертка аккумуляторная EINHELL TC-SD 3,6 3Нм 3,6В Li-Ion 1,3Ач is already in the database.
+2024-11-30 21:50:49,583 - INFO - Product отвертка аккумуляторная EINHELL TE-SD 3,6 3,5Нм 3,6В Li-Ion 1,5Ач + набор оснастки is already in the database.
+2024-11-30 21:50:49,584 - INFO - Product отвертка аккумуляторная ИНТЕРСКОЛ ОА-3,6 3Нм 3,6В Li-Ion 1,5Ач + набор оснастки is already in the database.
+2024-11-30 21:50:49,602 - INFO - Job "Parsing data every 5 minutes (trigger: interval[0:05:00], next run at: 2024-11-30 21:55:41 +05)" executed successfully
+2024-11-30 21:55:41,317 - INFO - Running job "Parsing data every 5 minutes (trigger: interval[0:05:00], next run at: 2024-11-30 22:00:41 +05)" (scheduled at 2024-11-30 21:55:41.316589+05:00)
+2024-11-30 21:55:41,317 - INFO - Parsing job started...
+2024-11-30 21:55:41,317 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/
+2024-11-30 21:55:42,366 - INFO - Product дрель безударная MAKITA 6413 450Вт is already in the database.
+2024-11-30 21:55:42,367 - INFO - Product дрель ударная DAEWOO DAD850 850Вт is already in the database.
+2024-11-30 21:55:42,368 - INFO - Product дрель ударная DAEWOO DAD950 950Вт is already in the database.
+2024-11-30 21:55:42,369 - INFO - Product дрель-шуруповерт DAEWOO DAA 1220Li 12В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:55:42,369 - INFO - Product дрель-шуруповерт DAEWOO DAA 2120Li 21В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:55:42,370 - INFO - Product дрель-шуруповерт DAEWOO DAA 1210Li 12В Li-Ion 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:55:42,371 - INFO - Product отвертка аккумуляторная DAEWOO DAА 3600LI Plus 3,6В Li-Ion 1,5Ач is already in the database.
+2024-11-30 21:55:42,371 - INFO - Product гравер EINHELL TC-MG 135 E 135Вт гибкий вал набор насадок is already in the database.
+2024-11-30 21:55:42,372 - INFO - Product отвертка аккумуляторная DAEWOO DAA 4800 Plus 3Нм 4,8В NICD 0,8Ач is already in the database.
+2024-11-30 21:55:42,373 - INFO - Product дрель безударная ДИОЛД МЭС-5-01 с СЗП 550Вт is already in the database.
+2024-11-30 21:55:42,374 - INFO - Product дрель-шуруповерт ДИОЛД ДЭА-12ЛИ-08 12В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:42,374 - INFO - Product дрель ударная ДИФМАШ ДЭУ-020 850Вт is already in the database.
+2024-11-30 21:55:42,375 - INFO - Product дрель ударная ДИФМАШ ДЭУ-030-01 900Вт is already in the database.
+2024-11-30 21:55:42,376 - INFO - Product дрель-шуруповерт ДИФМАШ ШС-030 650Вт is already in the database.
+2024-11-30 21:55:42,376 - INFO - Product дрель-шуруповерт MAKITA TD0101F 230Вт 100Нм is already in the database.
+2024-11-30 21:55:42,377 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/40 Li-Solo без аккумулятора POWER X-CHANGE is already in the database.
+2024-11-30 21:55:42,378 - INFO - Product отвертка аккумуляторная REDVERG Basic SD3,6L Li-lon 1,3Ач 1 АКБ is already in the database.
+2024-11-30 21:55:42,379 - INFO - Product дрель ударная HANSKONNER HID21100DS 1000Вт is already in the database.
+2024-11-30 21:55:42,379 - INFO - Product дрель безударная HANSKONNER HID2175 700Вт is already in the database.
+2024-11-30 21:55:42,380 - INFO - Product дрель-шуруповерт DEKO DKCD12FU-Li 12В 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:55:42,381 - INFO - Product дрель-шуруповерт DEKO DKCD20FU-Li 20В 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:55:42,382 - INFO - Product дрель-шуруповерт ДИФМАШ ША-21-01М 20В Li-Ion 2Ач 2 АКБ is already in the database.
+2024-11-30 21:55:42,382 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/48 Li - i 18В Li-Ion 2Ач 2 АКБ POWER X-CHANGE is already in the database.
+2024-11-30 21:55:42,383 - INFO - Product дрель-шуруповерт STONEBEAT KPHD0201 280Вт is already in the database.
+2024-11-30 21:55:42,384 - INFO - Product дрель-шуруповерт INGCO CDLI12208 12В Li-ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:55:42,385 - INFO - Product дрель ударная WORX WX317.2 800Вт 1 режим is already in the database.
+2024-11-30 21:55:42,386 - INFO - Product дрель-шуруповерт ударная WORX WX352 20В 60Нм с АКБ is already in the database.
+2024-11-30 21:55:42,386 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/40LiBL 40Нм 18В 2Ач 2 АКБ Power x-change is already in the database.
+2024-11-30 21:55:42,387 - INFO - Product дрель-шуруповерт EINHELL TE-CD 18/50LiBL 50Нм 18В  2Ач 2 АКБ Power x-change is already in the database.
+2024-11-30 21:55:42,388 - INFO - Product дрель-шуруповерт ДИФМАШ ША-12-06 29Нм 12В Li-Ion 2 АКБ is already in the database.
+2024-11-30 21:55:43,408 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/?amount=30&PAGEN_2=2
+2024-11-30 21:55:45,997 - INFO - Product дрель-шуруповерт ДИОЛД ДЭА-20 ЛИ-03У Li-Ion 20В 75Нм с АКБ is already in the database.
+2024-11-30 21:55:45,999 - INFO - Product дрель-шуруповерт WORX WX102 60Нм 20В Li-Ion бесщеточная с АКБ 2x2,0Ач is already in the database.
+2024-11-30 21:55:46,000 - INFO - Product дрель-шуруповерт WORX WX108.9 45Нм 20В Li-Ion без АКБ и ЗУ is already in the database.
+2024-11-30 21:55:46,001 - INFO - Product дрель-шуруповерт ударная WORX WX370 50Нм Li-Ion 20В с АКБ is already in the database.
+2024-11-30 21:55:46,001 - INFO - Product дрель-шуруповерт WORX Switchdriver2.0 WX177 бесщёточная 50Нм 20В Li-Ion с АКБ is already in the database.
+2024-11-30 21:55:46,002 - INFO - Product отвертка аккумуляторная WORX WX242 5Нм 4В Li-Ion 1,5Ач + набор оснастки is already in the database.
+2024-11-30 21:55:46,003 - INFO - Product дрель-шуруповерт ДИФМАШ ША-16-06 32Нм 16В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:46,004 - INFO - Product дрель-шуруповерт STURM CD3512BL 12В 2Ач 2 АКБ is already in the database.
+2024-11-30 21:55:46,004 - INFO - Product гравер STURM GM2314F 140Вт 10000-32000об/мин is already in the database.
+2024-11-30 21:55:46,005 - INFO - Product дрель-шуруповерт REDVERG RD-S18/U 18В 45Нм Li-Ion 2Ач 2 АКБ is already in the database.
+2024-11-30 21:55:46,006 - INFO - Product дрель-шуруповерт ударная REDVERG RD-IS18/U 18В 45Нм Li-Ion 2Ач 2 АКБ is already in the database.
+2024-11-30 21:55:46,006 - INFO - Product дрель-шуруповерт P.I.T. PSR18-D40 40Нм 20В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:55:46,007 - INFO - Product гравер P.I.T. PMG150-C0 150Вт аксесс 211шт is already in the database.
+2024-11-30 21:55:46,008 - INFO - Product гравер P.I.T. PMG200-C10 15Вт 350 пред-в is already in the database.
+2024-11-30 21:55:46,008 - INFO - Product дрель-шуруповерт P.I.T. PSR18-D3 20В 30Нм Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:55:46,009 - INFO - Product дрель-шуруповерт ударная P.I.T. PSB20H-13C/1 110Нм 20В Li-Ion 4Ач 1АКБ OnePower is already in the database.
+2024-11-30 21:55:46,010 - INFO - Product дрель-шуруповерт ударная P.I.T. ударная PSB20H-13D/1 75Нм 20В Li-Ion 2Ач 1АКБ OnePower is already in the database.
+2024-11-30 21:55:46,010 - INFO - Product дрель-шуруповерт P.I.T. PBM20H-10B/1 30Нм 20В Li-Ion 2Ач 1АКБ OnePower is already in the database.
+2024-11-30 21:55:46,011 - INFO - Product дрель-шуруповерт ударная P.I.T. PSR18-D4 Promo 40Нм 20В Li-Ion 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:55:46,012 - INFO - Product дрель-шуруповерт HANSKONNER HCD18165BLI 18В 165Нм 2/4Ач 2 АКБ is already in the database.
+2024-11-30 21:55:46,012 - INFO - Product дрель-шуруповерт ударная MAKITA DTD156Z 18В Li-Ion без АКБ и ЗУ LXT is already in the database.
+2024-11-30 21:55:46,013 - INFO - Product дрель-шуруповерт ударная MAKITA DTD157Z 18В Li-Ion без АКБ и ЗУ LXT is already in the database.
+2024-11-30 21:55:46,014 - INFO - Product дрель-миксер СПЕЦ ДЭ-1000  1050Вт is already in the database.
+2024-11-30 21:55:46,015 - INFO - Product дрель-шуруповерт STURM CD3318LP 18В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:46,016 - INFO - Product дрель-шуруповерт СПЕЦ БДА-18-БД 18В 45НМ бесщеточный Li-Ion с АКБ is already in the database.
+2024-11-30 21:55:46,016 - INFO - Product дрель-шуруповерт DEWALT DCD708N-XJ 18В 65Нм без АКБ is already in the database.
+2024-11-30 21:55:46,017 - INFO - Product отвертка аккумуляторная WORX WX240 5Нм 4В Li-Ion 1,5Ач is already in the database.
+2024-11-30 21:55:46,018 - INFO - Product дрель-шуруповерт РЕСАНТА ДА-20-2ЛК 20В Li-lon 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:55:46,018 - INFO - Product дрель-шуруповерт РЕСАНТА ДА-20-2ЛК-Б 20В Li-lon 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:55:46,019 - INFO - Product дрель-шуруповерт ударная РЕСАНТА ДА-24-2ЛК-У 24В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:55:47,040 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/?amount=30&PAGEN_2=3
+2024-11-30 21:55:48,543 - INFO - Product дрель-шуруповерт HANSKONNER HCD1645BLC 14,4В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:55:48,544 - INFO - Product дрель-шуруповерт HANSKONNER HCD2065BLC 18В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:55:48,545 - INFO - Product дрель-шуруповерт ударная HANSKONNER HCD2065BLIC 18В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:55:48,546 - INFO - Product дрель-шуруповерт ударный HANSKONNER HCD2065PRO 18В 2,0Ач 2АКБ бесщеточный аккумуляторный is already in the database.
+2024-11-30 21:55:48,546 - INFO - Product дрель-шуруповерт DEKO GCD12DU3 12В Li-Ion 2х1,5Ач + з/у + набор 13 предметов is already in the database.
+2024-11-30 21:55:48,547 - INFO - Product дрель-шуруповерт DEKO Banger 20V 20В Li-Ion 2х1,5Ач + з/у + набор 63 предмета is already in the database.
+2024-11-30 21:55:48,548 - INFO - Product дрель-шуруповерт DEKO Banger 20V 20В Li-Ion 1x1,5Ач щеточный + з/у is already in the database.
+2024-11-30 21:55:48,549 - INFO - Product дрель-шуруповерт DEKO DKCD20V 20В Li-Ion 2х3,0Ач + набор 63 предмета is already in the database.
+2024-11-30 21:55:48,549 - INFO - Product дрель-шуруповерт ударная STURM CD2080I Li-Ion 18В 80Нм 2 аккумулятора is already in the database.
+2024-11-30 21:55:48,550 - INFO - Product дрель-шуруповерт P.I.T. PBM12K-10B/2 35Нм 12В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:55:48,551 - INFO - Product дрель-шуруповерт P.I.T. PSR18-D3 PROMO 30Нм 20В Li-Ion 1,5Ач 1АКБ is already in the database.
+2024-11-30 21:55:48,551 - INFO - Product дрель-шуруповерт REDVERG RD-S18MBL/U 42Нм 18В 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:48,552 - INFO - Product дрель-шуруповерт РЕСАНТА ДА-50Л2-18А 18В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:48,553 - INFO - Product дрель-шуруповерт ударная INGCO CIDLI12202 20Нм 12В Li-Ion 1,5Ач 2АКБ is already in the database.
+2024-11-30 21:55:48,553 - INFO - Product дрель ударная MAKITA M8100 710Вт + очки is already in the database.
+2024-11-30 21:55:48,554 - INFO - Product дрель-шуруповерт MAKITA DDF453SYE 18В Li-Ion 1,5Ач 2АКБ + набор сверел + очки + перчатки is already in the database.
+2024-11-30 21:55:48,555 - INFO - Product дрель-шуруповерт MAKITA DDF453SYX5 18В Li-Ion 1,5Ач 1АКБ + набор бит is already in the database.
+2024-11-30 21:55:48,556 - INFO - Product дрель-шуруповерт MAKITA DF488DWE 18В Li-Ion 1,5Ач 2АКБ + перчатки + набор сверел is already in the database.
+2024-11-30 21:55:48,556 - INFO - Product дрель-шуруповерт MAKITA DF333DWAE 12В Li-Ion 2Ач 2АКБ + уровень + рулетка is already in the database.
+2024-11-30 21:55:48,557 - INFO - Product дрель-шуруповерт STURM CD1235BL 12В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:48,558 - INFO - Product дрель-шуруповерт STURM CD1235 12В Li-Ion 2Ач 1АКБ is already in the database.
+2024-11-30 21:55:48,558 - INFO - Product дрель-шуруповерт BOSCH GSR 185-LI 18В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:48,559 - INFO - Product дрель-шуруповерт BOSCH GSB 18В 54Нм Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:48,560 - INFO - Product дрель-шуруповерт BOSCH GSR 18В 54Нм Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:48,560 - INFO - Product дрель ударная INGCO ID8108 810Вт is already in the database.
+2024-11-30 21:55:48,561 - INFO - Product дрель ударная INGCO ID68082 650Вт is already in the database.
+2024-11-30 21:55:48,562 - INFO - Product дрель-шуруповерт STURM CD1240C 12В Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:48,562 - INFO - Product дрель-шуруповерт INGCO CDLI200528 20В 45Нм Li-Ion 2Ач 2АКБ is already in the database.
+2024-11-30 21:55:48,563 - INFO - Product дрель-шуруповерт GREENWORKS 3704007UA 24В 35Нм Li-Ion 2,0Ач 1АКБ is already in the database.
+2024-11-30 21:55:48,564 - INFO - Product дрель-шуруповерт GREENWORKS 3704107UA 24В 60Нм Li-Ion 2,0Ач 1АКБ is already in the database.
+2024-11-30 21:55:49,584 - INFO - Запрос к URL: https://www.maxidom.ru/catalog/dreli/?amount=30&PAGEN_2=4
+2024-11-30 21:55:50,497 - INFO - Product дрель-шуруповерт HANSKONNER HCD2065C 18В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:55:50,498 - INFO - Product дрель-шуруповерт ударная DEKO ZKCID20V 80Нм 20В Li-Ion 3,0Ач 2АКБ бесщеточный is already in the database.
+2024-11-30 21:55:50,499 - INFO - Product дрель-шуруповерт DEKO ZKCD20V PRO 45Нм 20В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:55:50,500 - INFO - Product дрель-шуруповерт DEKO SHARKER PRO 45Нм 20В Li-Ion 2,0Ач 2АКБ бесщеточный is already in the database.
+2024-11-30 21:55:50,500 - INFO - Product дрель-шуруповерт ударная DEKO ZKCD20V PRO 135Нм 20В Li-Ion 3,0Ач 2АКБ бесщеточный is already in the database.
+2024-11-30 21:55:50,501 - INFO - Product дрель-шуруповерт DEKO ZKCD12V PRO 32Нм 12В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:55:50,502 - INFO - Product дрель-шуруповерт DEKO ZKCD12 SET6 32Нм 12В Li-Ion 3,0Ач 2АКБ is already in the database.
+2024-11-30 21:55:50,502 - INFO - Product дрель-шуруповерт ударная INGCO CIDLI20508 50Нм 20В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:55:50,503 - INFO - Product дрель-шуруповерт DEWALT DCD700D2 24Нм 12В Li-Ion 2,0Ач 2АКБ is already in the database.
+2024-11-30 21:55:50,504 - INFO - Product отвертка аккумуляторная EINHELL TC-SD 3,6 3Нм 3,6В Li-Ion 1,3Ач is already in the database.
+2024-11-30 21:55:50,504 - INFO - Product отвертка аккумуляторная EINHELL TE-SD 3,6 3,5Нм 3,6В Li-Ion 1,5Ач + набор оснастки is already in the database.
+2024-11-30 21:55:50,505 - INFO - Product отвертка аккумуляторная ИНТЕРСКОЛ ОА-3,6 3Нм 3,6В Li-Ion 1,5Ач + набор оснастки is already in the database.
+2024-11-30 21:55:50,524 - INFO - Job "Parsing data every 5 minutes (trigger: interval[0:05:00], next run at: 2024-11-30 22:00:41 +05)" executed successfully
+2024-11-30 21:58:11,646 - INFO - Scheduler has been shut down
+2024-11-30 21:58:11,646 - INFO - Parsing job stopped
